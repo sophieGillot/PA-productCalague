@@ -1,0 +1,12 @@
+uk/co/danielbryant/djshopping/productcatalogue/configuration/ProductServiceConfiguration.java
+ uk.co.danielbryant.djshopping.productcatalogue.configuration.ProductServiceConfiguration
+uk/co/danielbryant/djshopping/productcatalogue/healthchecks/BasicHealthCheck.java
+ uk.co.danielbryant.djshopping.productcatalogue.healthchecks.BasicHealthCheck
+uk/co/danielbryant/djshopping/productcatalogue/resources/ProductResource.java
+ uk.co.danielbryant.djshopping.productcatalogue.resources.ProductResource
+uk/co/danielbryant/djshopping/productcatalogue/ProductServiceApplication.java
+ uk.co.danielbryant.djshopping.productcatalogue.ProductServiceApplication
+uk/co/danielbryant/djshopping/productcatalogue/services/ProductService.java
+ uk.co.danielbryant.djshopping.productcatalogue.services.ProductService
+uk/co/danielbryant/djshopping/productcatalogue/model/Product.java
+ uk.co.danielbryant.djshopping.productcatalogue.model.Product
